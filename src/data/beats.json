@@ -1,0 +1,102 @@
+[
+    {
+        "id": "beat-id-1",
+        "name": "Beat Name 1",
+        "createdAt": "02/01/2023",
+        "youtubeLink": "",
+        "mediaURL": "",
+        "plays": 3,
+        "type": "type-id-1",
+        "time": 154
+    },
+    {
+        "id": "beat-id-2",
+        "name": "Beat Name 2",
+        "createdAt": "02/01/2023",
+        "youtubeLink": "",
+        "mediaURL": "",
+        "plays": 2,
+        "type": "type-id-1",
+        "time": 168
+    },
+    {
+        "id": "beat-id-3",
+        "name": "Beat Name 3",
+        "createdAt": "02/01/2023",
+        "youtubeLink": "",
+        "mediaURL": "",
+        "plays": 5,
+        "type": "type-id-2",
+        "time": 195
+    },
+    {
+        "id": "beat-id-4",
+        "name": "Beat Name 4",
+        "createdAt": "02/01/2023",
+        "youtubeLink": "",
+        "mediaURL": "",
+        "plays": 11,
+        "type": "type-id-3",
+        "time": 123
+    },
+    {
+        "id": "beat-id-5",
+        "name": "Beat Name 5",
+        "createdAt": "02/01/2023",
+        "youtubeLink": "",
+        "mediaURL": "",
+        "plays": 9,
+        "type": "type-id-2",
+        "time": 177
+    },
+    {
+        "id": "beat-id-6",
+        "name": "Beat Name 6",
+        "createdAt": "02/01/2023",
+        "youtubeLink": "",
+        "mediaURL": "",
+        "plays": 5,
+        "type": "type-id-2",
+        "time": 183
+    },
+    {
+        "id": "beat-id-7",
+        "name": "Beat Name 7",
+        "createdAt": "02/01/2023",
+        "youtubeLink": "",
+        "mediaURL": "",
+        "plays": 3,
+        "type": "type-id-3",
+        "time": 132
+    },
+    {
+        "id": "beat-id-8",
+        "name": "Beat Name 8",
+        "createdAt": "02/01/2023",
+        "youtubeLink": "",
+        "mediaURL": "",
+        "plays": 12,
+        "type": "type-id-1",
+        "time": 177
+    },
+    {
+        "id": "beat-id-9",
+        "name": "Beat Name 9",
+        "createdAt": "02/01/2023",
+        "youtubeLink": "",
+        "mediaURL": "",
+        "plays": 9,
+        "type": "type-id-3",
+        "time": 164
+    },
+    {
+        "id": "beat-id-10",
+        "name": "Beat Name 10",
+        "createdAt": "02/01/2023",
+        "youtubeLink": "",
+        "mediaURL": "",
+        "plays": 3,
+        "type": "type-id-1",
+        "time": 197
+    }
+]
