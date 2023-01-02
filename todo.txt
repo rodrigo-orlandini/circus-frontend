@@ -1,0 +1,3 @@
+TODO implements backend communication
+TODO implements buttons functionalities
+TODO refactor to implements SOLID principles

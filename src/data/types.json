@@ -1,0 +1,23 @@
+[
+    { 
+        "id": "type-id-1",
+        "label": "DARK",
+        "color": "#8155BA",
+        "createdAt": "02/01/2023",
+        "updatedAt": "02/01/2023"
+    },
+    { 
+        "id": "type-id-2",
+        "label": "DRILL",
+        "color": "#F75274",
+        "createdAt": "02/01/2023",
+        "updatedAt": "02/01/2023"
+    },
+    { 
+        "id": "type-id-3",
+        "label": "SAD",
+        "color": "#20FF5F",
+        "createdAt": "02/01/2023",
+        "updatedAt": "02/01/2023"
+    }
+]
